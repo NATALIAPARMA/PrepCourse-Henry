@@ -1,2 +1,2 @@
-# PrepCourse-Henry
-Este es un repositoro de prueba para el PrepCourse de Harry
+# proyecto de prueba
+Este es un proyecto de prueba de como crear un repositorio y clonarlo desde github a mi escrtorio local
